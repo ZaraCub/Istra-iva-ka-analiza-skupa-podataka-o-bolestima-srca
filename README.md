@@ -4,3 +4,5 @@ Zadatak završnog rada je izvršiti pripremu i istraživačku analizu skupa sa p
 bolestima srca, s ciljem razumijevanja faktora koji utječu na srčane bolesti. Potrebno je primijeniti
 postupke iz područja dekriptivne i inferencijalne statistike, kao što su vizualizacija i linearna 
 regresija. Potrebno je interpretirati dobivene rezultate.
+
+Programski jezik: R
